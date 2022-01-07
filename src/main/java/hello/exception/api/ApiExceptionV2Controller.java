@@ -56,4 +56,5 @@ public class ApiExceptionV2Controller {
     private String memberId;
     private String name;
   }
+
 }
